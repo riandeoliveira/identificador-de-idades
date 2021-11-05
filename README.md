@@ -6,7 +6,7 @@ Programa que identificada a idade de alguém pela data inserida e exibe uma imag
 
 ## Layout
 
-![Imagem demonstrativa do projeto](demo/layout.png)
+<img src="demo/layout.png" alt="Imagem demonstrativa" align="center"></img>
 
 ## Tecnologias utilizadas
 
